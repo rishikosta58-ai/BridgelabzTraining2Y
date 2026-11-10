@@ -17,9 +17,9 @@ Just switch to the branch of the topic you want to practice and start solving.
 If you want to add a new topic, create a new branch from main.
 
 Suggested order :
-Arrays
-Searching
-Sorting
-String
-practice-problems
-Recursion
+- Arrays
+- Searching
+- Sorting
+- String
+- practice-problems
+- Recursion
